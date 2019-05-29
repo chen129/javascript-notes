@@ -1,2 +1,2 @@
-# javascript-notes
-学习笔记
+记性不好，多做笔记。
+
